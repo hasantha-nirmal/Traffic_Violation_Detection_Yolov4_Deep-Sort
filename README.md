@@ -25,7 +25,7 @@ This is the output you will get if you successfuly ran the program;
 
 <img src="output.gif" width="400" height="200"/>
 
-##If you looking for a better explaination of the main python script, check out my medium article;
+## If you looking for a better explaination of the main python script, check out my medium article;
 
 https://medium.com/@hasanthakdu/speed-violation-detection-of-real-time-video-footage-using-computer-vision-8bab662cf8b4
 
