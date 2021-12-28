@@ -23,4 +23,4 @@ python object_tracker_speed_violation.py --output ./outputs/processed_vids/speed
 
 This is the output you will get if you successfuly ran the program;
 
-![Alt text](output.gif) 
+![Alt text](output.gif == 250x250) 
