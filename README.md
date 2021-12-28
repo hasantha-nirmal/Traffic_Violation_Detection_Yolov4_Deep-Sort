@@ -25,6 +25,9 @@ This is the output you will get if you successfuly ran the program;
 
 <img src="output.gif" width="400" height="200"/>
 
+##If you looking for a better explaination of the main python script, check out my medium article;
+https://medium.com/@hasanthakdu/speed-violation-detection-of-real-time-video-footage-using-computer-vision-8bab662cf8b4
+
 ## Big Shout out to these developers/heroes for buiding the backbone of this whole project
 https://github.com/theAIGuysCode/yolov4-deepsort
 https://github.com/hunglc007/tensorflow-yolov4-tflite
