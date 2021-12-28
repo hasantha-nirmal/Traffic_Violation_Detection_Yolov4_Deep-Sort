@@ -23,4 +23,4 @@ python object_tracker_speed_violation.py --output ./outputs/processed_vids/speed
 
 This is the output you will get if you successfuly ran the program;
 
-<img src="output.gif" width="600" height="600"/>
+<img src="output.gif" width="400" height="200"/>
