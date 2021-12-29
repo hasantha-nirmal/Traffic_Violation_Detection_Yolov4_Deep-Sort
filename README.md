@@ -1,5 +1,5 @@
-# Speed Violation Detection
-Real-time Speed violation detection using Yolo and Deep-Sort
+# Traffic Violation Detection
+Real-time Speed violation detection and Lane-Line violation detection using Yolov4 and Deep-Sort
 ## Instructions
 1. First clone the repository
 2. Run the conda-env.yml to install a dedicated conda environment and install all the necessary repositories.
@@ -15,19 +15,27 @@ conda activate yolov4-gpu
 ```
 python save_model.py --model yolov4 
 ```
-5. Run this commad to test the program
+5. Run this commad to test the speed violation detection program
 ```
 python object_tracker_speed_violation.py --output ./outputs/processed_vids/speed.avi --model yolov4
 ```
+6. Run this commad to test the Lane-Line violation detection program
+```
+python lane_line_viol_detection.py --output ./outputs/processed_vids/lane.avi --model yolov4
+```
 
 
-This is the output you will get if you successfuly ran the program;
+<!-- This is the output you will get if you successfuly ran the speed violation detection program; -->
 
-<img src="output.gif" width="400" height="200"/>
+<!-- <img src="output.gif" width="400" height="200"/> -->
 
 ## If you looking for a better explaination of the main python script, check out my medium article;
-
+## Speed Violation Detection
 https://medium.com/@hasanthakdu/speed-violation-detection-of-real-time-video-footage-using-computer-vision-8bab662cf8b4
+
+## Lane Line Violation Detection
+https://medium.com/@hasanthakdu/lane-line-violation-detection-using-yolo-and-deep-sort-f19774b3c739
+
 
 ## Big Shout out to these developers/heroes for buiding the backbone of this whole project
 https://github.com/theAIGuysCode/yolov4-deepsort
