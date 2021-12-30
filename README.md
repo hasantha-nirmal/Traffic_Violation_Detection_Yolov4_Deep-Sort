@@ -36,6 +36,9 @@ https://medium.com/@hasanthakdu/speed-violation-detection-of-real-time-video-foo
 ## Lane Line Violation Detection
 https://medium.com/@hasanthakdu/lane-line-violation-detection-using-yolo-and-deep-sort-f19774b3c739
 
+## Parking Violation Detetcion
+https://medium.com/@hasanthakdu/parking-violation-detection-system-using-computer-vision-3ee784cb5d43
+
 
 ## Big Shout out to these developers/heroes for buiding the backbone of this whole project
 https://github.com/theAIGuysCode/yolov4-deepsort
