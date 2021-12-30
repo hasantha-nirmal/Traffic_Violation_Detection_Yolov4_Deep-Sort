@@ -23,6 +23,10 @@ python object_tracker_speed_violation.py --output ./outputs/processed_vids/speed
 ```
 python lane_line_viol_detection.py --output ./outputs/processed_vids/lane.avi --model yolov4
 ```
+7. Run this commad to test the Parking violation detection program
+```
+python parking_violation_detection.py  --output ./outputs/processed_vids/parking.avi --model yolov4
+```
 
 
 <!-- This is the output you will get if you successfuly ran the speed violation detection program; -->
