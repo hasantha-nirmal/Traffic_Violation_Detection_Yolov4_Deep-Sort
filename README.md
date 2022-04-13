@@ -19,7 +19,7 @@ python save_model.py --model yolov4
 ```
 python object_tracker_speed_violation.py --output ./outputs/processed_vids/speed.avi --model yolov4
 ```
-6. Run this commad to test the Lane-Line violation detection program
+6. Run this commad to test the Lane-Line violation detection program after changing the paths in lane_line_extract3.py (5th line, change according to your PC path)
 ```
 python lane_line_viol_detection.py --output ./outputs/processed_vids/lane.avi --model yolov4
 ```
